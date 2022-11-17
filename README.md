@@ -106,15 +106,21 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
-![193459033-f370f153-2df8-4bf0-b850-ccfd64ab047b](https://user-images.githubusercontent.com/94169318/193610005-7e89ea07-64ec-4259-8ac7-d699bd85122d.png)
+![193451349-54044b08-c80f-4f05-ad97-141dc786bb5a](https://user-images.githubusercontent.com/94168395/202348989-b39c1350-260c-40c9-99ae-287853761842.png)
 
-![193459052-b0e1c47e-972b-4be8-b606-3ea0e83ebea4](https://user-images.githubusercontent.com/94169318/193610042-98aefc7a-42de-4384-9bb9-1582f2c062c3.png)
+![193451383-381c1f04-a881-4799-8aff-51d80eebe419](https://user-images.githubusercontent.com/94168395/202349039-25efdf56-fc01-474a-bcce-73dee02430ad.png)
 
-![193459128-26eb3619-7fe6-4472-a9fe-137cea1f6dc8](https://user-images.githubusercontent.com/94169318/193610075-1cbaf8f7-6e00-43ea-bf1b-0d908b132999.png)
+![193451415-e3355674-f4cb-475c-ace4-0865cc3ed0c9](https://user-images.githubusercontent.com/94168395/202349068-860f06ea-22ef-4183-af0a-3d88411d0081.png)
+![193451428-b9cb0d87-177a-4765-a181-f308f0bb54f6](https://user-images.githubusercontent.com/94168395/202349088-aa56f2cb-dcf6-4fa9-9cf4-7b02449e9130.png)
 
-![193459143-af1ef265-feaa-40dd-bf38-2123930b4323](https://user-images.githubusercontent.com/94169318/193610099-96347056-97dd-443a-922b-4f58c5427a23.png)
+![193451434-623ee4ac-6eff-40fc-9748-0aaab1648297](https://user-images.githubusercontent.com/94168395/202349126-73283a0b-0752-4880-804c-5b8c16dbf87c.png)
 
-![193459160-93da5608-9cd6-4591-8df7-7a8e7f8fbee0](https://user-images.githubusercontent.com/94169318/193610120-9594313c-b917-49eb-97a9-307c131fa196.png)
+![193451460-c1348099-e723-4361-9d7e-dfd8fbe47f2d](https://user-images.githubusercontent.com/94168395/202349154-6ada240c-9d01-4742-9c54-58ae8a54322e.png)
+
+![193451463-efdafc0d-f7a6-4e15-91c5-daea849643cf](https://user-images.githubusercontent.com/94168395/202349179-ea041267-371a-4fe2-ba8e-7800ac541970.png)
+
+![193451468-d702ab15-e83b-45f2-b30b-aaca4f0508d7](https://user-images.githubusercontent.com/94168395/202349227-0b4f2d67-856e-46c5-ad9f-fc5f763f5982.png)
+
 
 
 ## Result:
